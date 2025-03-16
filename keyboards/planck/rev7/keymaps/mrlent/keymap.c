@@ -58,7 +58,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______
 ),
 
-// TODO: muting micro to check with Keychron Q8 on laptop(s)
 [_FUNCTION] = LAYOUT_ortho_4x12(
     _______, KC_MUTE, KC_VOLD, KC_VOLU, KC_BRID, KC_BRIU, _______, _______, _______, KC_CALC, KC_PSCR, KC_SLEP,
     _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______, _______,
